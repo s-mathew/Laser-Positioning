@@ -1,0 +1,6 @@
+
+[limits]
+xAndYMax = 6.5
+xAndYMin = -6.5
+zMin = -3.25
+zMax = 3.25
