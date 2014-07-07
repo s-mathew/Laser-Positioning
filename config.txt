@@ -1,6 +1,10 @@
-
 [limits]
 xAndYMax = 6.5
 xAndYMin = -6.5
 zMin = -3.25
 zMax = 3.25
+
+[coordinates of last run]
+x = 0
+y = 0
+z = 0
